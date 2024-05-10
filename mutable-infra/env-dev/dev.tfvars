@@ -1,7 +1,7 @@
 ENV                 = "dev"
 COMPONENT           = "cart"
 
-SPOT_INSTANCE_COUNT = 1
+SPOT_INSTANCE_COUNT = 0
 SPOT_INSTANCE_TYPE  = "t3.micro"
 
 OD_INSTANCE_COUNT   = 1
